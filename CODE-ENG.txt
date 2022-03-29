@@ -107,15 +107,7 @@ function Test-SpotifyVersion
 
 Write-Host @'
 *****************
-@mrpond message:
-Stworzone przez djkubaxd#2299
-Copyright ©
-*****************
-'@
-
-Write-Host @'
-*****************
-Author: djkubaxd#2299
+Author:djkubaxd#2299
 Copyright ©
 *****************
 '@
@@ -359,9 +351,17 @@ Start-Process -WorkingDirectory $spotifyDirectory -FilePath $spotifyExecutable
 Write-Host 'Done.'
 
 Write-Host @'
+
 *****************
-@djkubaxd message:
-created by djkubaxd
-Copyright ©
+!!!INSTALLED!!!
 *****************
+
+'@
+
+Write-Host @'
+
+*****************
+!!!INSTALLED!!!
+*****************
+
 '@
