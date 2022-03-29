@@ -351,9 +351,7 @@ Start-Process -WorkingDirectory $spotifyDirectory -FilePath $spotifyExecutable
 Write-Host 'Done.'
 
 Write-Host @'
-
 *****************
 !!!INSTALLED!!!
 *****************
-
 '@
