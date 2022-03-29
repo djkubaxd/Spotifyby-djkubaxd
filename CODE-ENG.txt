@@ -352,6 +352,6 @@ Write-Host 'Done.'
 
 Write-Host @'
 *****************
-!!!INSTALLED!!!
+    INSTALLED
 *****************
 '@
